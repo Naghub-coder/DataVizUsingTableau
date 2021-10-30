@@ -10,3 +10,14 @@ Check Out The source Files in The Master Branch
 
 
 [Youtube Link](https://youtu.be/1aUc4GvTo-c)
+
+
+# Install Node Modules and run the Server
+npm install express
+
+
+# Install Nodemon to Run the Server at Port 3000
+npm install nodemon
+
+nodemon app.js
+
